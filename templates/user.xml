@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="logger" value="private static final org.apache.logging.log4j.Logger logger = org.apache.logging.log4j.LogManager.getLogger();" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="logger" value="private static final org.apache.logging.log4j.Logger logger = org.apache.logging.log4j.LogManager.getLogger();" description="" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
